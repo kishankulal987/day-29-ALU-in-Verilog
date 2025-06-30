@@ -58,9 +58,7 @@ Created a testbench to verify the ALU’s behavior.
 
 ---
 
-## ⏱️ Time Scale
 
----
 
 ## 🧰 Purpose
 To ensure the ALU correctly performs all supported operations and appropriately sets the `overflow` and `zero` flags.
